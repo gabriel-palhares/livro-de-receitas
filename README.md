@@ -10,4 +10,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 
 #### About
 
-Este repositório e todas as alterações foram feitas com o objetivo de praticar comandos do Git
+Este repositório e todas as alterações foram feitos com o objetivo de praticar comandos do Git
